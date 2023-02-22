@@ -1,7 +1,7 @@
 # lern-batch
 lerning batch script
 
-## nano movelog.bat
+## nano moveauditlog.bat
 
 ````
 @ECHO OFF
